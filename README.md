@@ -8,7 +8,7 @@ I have spent the last 6 months learning new skills and software such as Excel, P
 
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [libanyusuf12@outlook.com](mailto:libanyusuf12@outlook.com)
-*   🧠  I'm learning Excel, Python, SQL, R, Tableau and PowerBI### Skills 
+*   🧠  I'm learning Excel, Python, SQL, R, Tableau and PowerBI.
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                     </p>
