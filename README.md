@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Liban Yusuf
 ===================================================================================================================================
 
-Data Analyst
+Data Analyst, Life-long Learner
 ------------
 
 I have spent the last 6 months learning new skills and software such as Excel, Python, SQL, R, Tableau and PowerBI to secure a junior role as a Data Analyst and to upskill and work my way up from there. In my previous roles in retail, I've developed a knack for extracting insights from complex datasets, whether identifying customer trends, optimising inventory levels, or enhancing operational efficiency. I'm becoming comfortable with tools like Python, SQL, and Excel, and I'm always eager to learn new technologies and techniques. I believe my quickly adapting and learning ability would be a valuable asset in a fast-paced environment.
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [libanyusuf12@outlook.com](mailto:libanyusuf12@outlook.com)
 * 🧠  I'm learning Excel, Python, SQL, R, Tableau and PowerBI
 
